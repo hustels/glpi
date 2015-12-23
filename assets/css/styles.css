@@ -1,0 +1,25 @@
+#custom_jumbotron{
+    margin-top: 8%%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%%;
+    background: #f5f5f5;
+
+}
+
+#test{
+    background: orange;
+}
+
+body{
+    background: lightgray;
+}
+
+#morris.chart.custom{
+	background: red;
+}
+
+#table_header{
+	background: orange;
+}
